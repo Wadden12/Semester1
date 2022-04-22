@@ -1,0 +1,100 @@
+
+                    NL Chocolate Company                    
+                        Travel Claim # 34
+
+   Employee number: KM3       Employee Name: Kevin Madden
+
+   Trip Location:      Start Date:   2021, 09 01         
+   Cornerbrook         End Date:     2021, 09 10         
+
+   ***********************************************************
+    The Salesperson Used Their Own Car and Traveled: 3,500km 
+   ***********************************************************
+
+   Per Diem     $900.00     
+   Vehicle      $350.00     
+   Subtotal     $1,250.00   
+   HST          $135.00     
+   -------------------------
+   Total Claim  $1,385.00   
+
+
+                    NL Chocolate Company                    
+                        Travel Claim # 35
+
+   Employee number: MW4       Employee Name: Mike Wadden
+
+   Trip Location:      Start Date:   2021, 10 01         
+   Toronto             End Date:     2021, 10 09         
+
+   ***********************************************************
+    The Salesperson Used a Rental Car   
+   ***********************************************************
+
+   Per Diem     $800.00     
+   Vehicle      $448.00     
+   Subtotal     $1,248.00   
+   HST          $120.00     
+   -------------------------
+   Total Claim  $1,368.00   
+
+
+                    NL Chocolate Company                    
+                        Travel Claim # 36
+
+   Employee number: JW5       Employee Name: Jessica Wadden
+
+   Trip Location:      Start Date:   2021, 08 05         
+   Gander              End Date:     2021, 08 10         
+
+   ***********************************************************
+    The Salesperson Used Their Own Car and Traveled: 2,500km 
+   ***********************************************************
+
+   Per Diem     $500.00     
+   Vehicle      $250.00     
+   Subtotal     $750.00     
+   HST          $75.00      
+   -------------------------
+   Total Claim  $825.00     
+
+
+                    NL Chocolate Company                    
+                        Travel Claim # 37
+
+   Employee number: PP5       Employee Name: Paul Price
+
+   Trip Location:      Start Date:   2021, 10 20         
+   Montreal            End Date:     2021, 10 31         
+
+   ***********************************************************
+    The Salesperson Used a Rental Car   
+   ***********************************************************
+
+   Per Diem     $1,100.00   
+   Vehicle      $616.00     
+   Subtotal     $1,716.00   
+   HST          $165.00     
+   -------------------------
+   Total Claim  $1,881.00   
+
+
+                    NL Chocolate Company                    
+                        Travel Claim # 38
+
+   Employee number: JH5       Employee Name: John Hanson
+
+   Trip Location:      Start Date:   2021, 09 01         
+   Halifax             End Date:     2021, 09 15         
+
+   ***********************************************************
+    The Salesperson Used a Rental Car   
+   ***********************************************************
+
+   Per Diem     $1,400.00   
+   Vehicle      $784.00     
+   Subtotal     $2,184.00   
+   HST          $210.00     
+   -------------------------
+   Total Claim  $2,394.00   
+
